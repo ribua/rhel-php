@@ -1,0 +1,9 @@
+# OS / editor
+.DS_Store
+*~
+*.swp
+.idea/
+.vscode/
+
+# When building locally
+*.log
