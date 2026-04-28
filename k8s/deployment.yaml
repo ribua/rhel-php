@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: php-hello
-          # Replace with your built image location.
+          # Replace with your built image location. test
           image: quay.io/rabraham/rhel-php:v1.2
           imagePullPolicy: IfNotPresent
           ports:
